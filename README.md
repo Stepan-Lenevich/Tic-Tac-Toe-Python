@@ -1,2 +1,3 @@
 # Tic-Tac-Toe-Python
-Tic Tac Toe game based on TBot of Mawuli Adzaku 
+This script plays Tic Tac Toe. The original idea comes from a script by Mawuli Adzaku. TBot AI was modified to correctly handle forks and fork threats. It should choose the best strategy now. 
+
